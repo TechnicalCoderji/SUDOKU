@@ -119,4 +119,5 @@ Free to use, modify, and distribute. Attribution appreciated but not required.
 ---
 
 🌟 **Enjoy Sudoku? Leave a star!**  
-🐞 **Issues?** Report them [here](https://github.com/TechnicalCoderji/GUI-Projects-for-DSA/SUDOKU/issues).
+🐞 **Issues?** Report them [here](https://github.com/TechnicalCoderji/SUDOKU/issues).
+
